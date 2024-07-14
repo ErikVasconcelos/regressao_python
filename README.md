@@ -1,6 +1,6 @@
 # Análise de Regressão em Python - Escola DNC
 
-<p><img src="https://yt3.googleusercontent.com/nlZwL457MVj-ksTFvk2wnu2SQywdW0IEboKRCyCOzsNOmdCCbMHpKUU_JvmMXb_L2-jXS9_b-0I=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" width="720px" alt="html-icon"/>
+<p><img src="https://yt3.googleusercontent.com/nlZwL457MVj-ksTFvk2wnu2SQywdW0IEboKRCyCOzsNOmdCCbMHpKUU_JvmMXb_L2-jXS9_b-0I=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" width="1020px" alt="html-icon"/>
   
 Repositório criado durante o curso de Ciência de Dados da Escola DNC.
 
