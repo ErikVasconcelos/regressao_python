@@ -21,7 +21,7 @@ A loja de Varejo deseja criar algumas métricas para acompanhar seus resultado, 
 * Temos um erro de sistema, para compras sem UF, considerar o Estado do MS;
 * O Preço não pode ser maior que preço com frete.
 
-Outro caso deste módulo foi a construção de um modelo de regressão linear para uma loka de marketing
+Outro caso deste módulo foi a construção de um modelo de regressão linear para uma loka de marketing - <b>Desafio_4_Reg_Linear_de_Marketing_v1</b>
 
 Uma empresa está investindo mensalmente em plataformas de publicidade online, como Youtube, Facebook e newspaper, para a prospecção de leads (pessoas  interessadas em seus produtos).
 A fim de acompanhar o desempenho desses investimentos, a empresa registra todos os gastos com publicidade e todos os retornos de vendas gerados a partir desses investimentos.
