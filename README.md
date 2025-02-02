@@ -1,5 +1,7 @@
 # Análise de Regressão em Python - Escola DNC
 
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="75px" height="22px" alt="python"/>
+
 <p><img src="https://yt3.googleusercontent.com/jbrVFrorma-qy6MktExlP4IcwywfEkDJfBNJvdFiKDDCitUb0L4JlejlGg7aKr0UyRM1i7ve8HA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" width="1020px" alt="html-icon"/>
   
 Repositório criado durante o curso de Ciência de Dados da Escola DNC.
